@@ -1,6 +1,6 @@
 # Learning Blockchain using Python
 
-[![Build Status](https://github.com/Jantz021991/BlockChain.svg?branch=master)](https://github.com/Jantz021991/BlockChain)
+[![Build Status](https://api.travis-ci.org/dvf/blockchain.svg?branch=master)](https://github.com/Jantz021991/BlockChain)
 
 Source in understanding BlockChain,[Building a Blockchain](https://medium.com/p/117428612f46). 
 
